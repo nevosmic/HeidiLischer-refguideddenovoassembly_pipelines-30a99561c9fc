@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="HeidiLischer-refguideddenovoassembly_pipelines-30a99561c9fc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SplitSeqLowCov.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FastaToAmos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RemoveShortSeq.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FastaStats.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GetBlocks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WriteSoapConfig.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
